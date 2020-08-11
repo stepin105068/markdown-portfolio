@@ -1,4 +1,4 @@
 ## My favourite tourist places are: 
-### Singapore
-### Dubai
-### Andaman Nicobar Islands
+- Singapore
+- Dubai
+- Andaman Nicobar Islands
